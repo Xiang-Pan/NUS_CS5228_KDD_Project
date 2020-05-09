@@ -4,7 +4,7 @@ Winning 1st place at NUS CS5228 in-class Kaggle competition 2020!
 ## Folder Structure
 - src  
 	Solution(jupyter notebook)  
-- submission  
+- kaggle_submission  
 	Final Kaggle submissions  
 - doc  
 	Kaggle competition report 
